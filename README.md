@@ -1,1 +1,1 @@
-# practice_1_computer vison
+ This are some computer vison practices
