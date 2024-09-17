@@ -1,1 +1,1 @@
- This are some computer vison practices
+ These are some computer vison practices
